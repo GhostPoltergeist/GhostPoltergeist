@@ -1,4 +1,4 @@
-### My Name is Harold Edsel Cabaluna
+### I'm Harold Edsel Cabaluna
 
 - 🔭 I’m currently working on Elite Cyber Developers PH
 - 🌱 I’m currently learning Python 
@@ -8,4 +8,4 @@
 - 📫 How to reach me: Send me a Email: Edselcabaluna21@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love coding specially when it comes to android applications
--->
+--------------------------------------------------------------------------------
