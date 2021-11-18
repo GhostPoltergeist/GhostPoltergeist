@@ -13,4 +13,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=HaroldEdselCabaluna&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PseudoDevs)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GhostPoltergeist)
