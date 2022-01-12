@@ -1,7 +1,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-sh.ay657-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sh.ay657/)](https://instagram.com/sh.ay657)
 [![Gmail Badge](https://img.shields.io/badge/-Edselcabaluna21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Edselcabaluna21@gmail.com)](mailto:Edselcabaluna21@gmail.com)
 
-<iframe src="https://gifer.com/embed/81RA" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/81RA" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 ### I'm Harold Edsel Cabaluna
 
