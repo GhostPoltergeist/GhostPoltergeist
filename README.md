@@ -5,7 +5,7 @@
   <img src="https://github.com/GhostPoltergeist/GhostPoltergeist/blob/main/EasJ.gif" width="400"/>
 </a></p>
 
-### I'm Harold Edsel Cabaluna
+### I'm Harold Edsel Cabaluna / Ethical Hacker
 
 - 🔭 I’m currently working on Elite Cyber Developers PH
 - 🌱 I’m currently learning Python 
