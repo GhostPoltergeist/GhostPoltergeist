@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Edselcabaluna21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Edselcabaluna21@gmail.com)](mailto:Edselcabaluna21@gmail.com)
 
 <p align="center">
-  <img src="https://github.com/Ghost-Phisher/Integer-Identifier.io/blob/master/logo.jpg" width="200"/>
+  <img src="https://github.com/GhostPoltergeist/GhostPoltergeist/blob/main/81RA.gif" width="200"/>
 </a></p>
 
 ### I'm Harold Edsel Cabaluna
