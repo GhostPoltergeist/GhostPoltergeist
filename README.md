@@ -3,8 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-cabalunaharoldedsel@immaculada.edu.ph-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cabalunaharoldedsel@immaculada.edu.ph)](mailto:cabalunaharoldedsel@immaculada.edu.ph)
 
 <p align="center">
- 
+  <img src="https://github.com/Ghost-Phisher/Integer-Identifier.io/blob/master/logo.j" width="200"/>
 </a></p>
+
 
 ### I'm Harold Edsel Cabaluna / Data Scientist / Console Based-Apps Developer 
 
