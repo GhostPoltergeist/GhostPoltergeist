@@ -7,7 +7,7 @@
 </a></p>
 
 
-### I'm Harold Edsel Cabaluna / Data Scientist / Console Based-Apps Developer 
+### I'm Harold Edsel Cabaluna 
 
 - 🔭 I’m currently working on Elite Cyber Developers PH
 - 🌱 I’m currently learning Python 
